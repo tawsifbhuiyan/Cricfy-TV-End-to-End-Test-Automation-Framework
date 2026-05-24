@@ -1,6 +1,6 @@
 # 📱 App Automation Testing & Validation Framework
 
-An end-to-end **Android mobile automation testing framework** built using **Appium + Python** to validate real-device application workflows, UI interactions, navigation flows, and functional behavior of a streaming-style mobile application.
+An end-to-end **Android mobile automation testing framework** built using **Appium to validate real-device application workflows, UI interactions, navigation flows, and functional behavior of a streaming-style mobile application.
 
 This project demonstrates real-world QA automation practices using a physical Android device with the UiAutomator2 driver.
 
@@ -38,7 +38,6 @@ It simulates real user behavior on a **physical Android device**, making it high
 
 ## 🧰 Tech Stack
 
-- Python 🐍
 - Appium
 - Selenium WebDriver
 - UiAutomator2
